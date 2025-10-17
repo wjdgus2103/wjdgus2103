@@ -84,7 +84,7 @@
 ---
 
 ## 📫 Contact
-📧 **Email:** yourname@gmail.com  
+📧 **Email:** wjdgus161120@gmail.com  
 🌍 **Portfolio Site:** [https://wjdgus2103.github.io](https://wjdgus2103.github.io)  
 💬 Always open to collaboration or code review discussions!
 
