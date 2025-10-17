@@ -9,10 +9,9 @@
 
 ## 💡 About Me
 - 🧠 프론트엔드와 백엔드를 모두 다루는 **풀스택 웹 개발자**  
-- ⚙️ React + Spring Boot 기반의 **대규모 웹 서비스** 개발 경험  
-- 🎨 UI/UX 중심의 구조적이고 반응형 웹 디자인을 선호  
-- 🚀 목표: *“코드는 기능을 넘어, 사용자의 경험을 설계하는 도구다.”*
-
+- ⚙️ React + Spring Boot 기반의 **웹 서비스** 개발 경험  
+- 🎨 UI/UX 중심의 구조적이고 반응형 웹 디자인을 선호
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -59,19 +58,6 @@
 **Tech:** React, MUI, Redux Toolkit, Spring Boot, JWT, MySQL  
 **Highlights:** 사용자 인증 / 관리자 기능 / 반응형 대시보드 / Kakao API 연동  
 **Deploy:** [http://g2i4project.duckdns.org](http://g2i4project.duckdns.org)
-
----
-
-### 📱 [Flutter Social Login App](https://github.com/wjdgus2103/flutter_login_app)
-> Flutter 기반 SNS 로그인 앱 (Kakao, Naver, Google)
-
-**Overview**  
-- Flutter OAuth2 로그인 로직 구현  
-- SharedPreferences 기반 토큰 저장  
-- 간단한 인증 구조를 통해 모바일 인증 개념 확립  
-
-**Tech:** Flutter, Dart  
-**Purpose:** 웹 인증 로직 설계의 모바일 확장 실험  
 
 ---
 
