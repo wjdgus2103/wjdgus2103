@@ -57,7 +57,9 @@
 
 **Tech:** React, MUI, Redux Toolkit, Spring Boot, JWT, MySQL  
 **Highlights:** 사용자 인증 / 관리자 기능 / 반응형 대시보드 / Kakao API 연동  
-**Deploy:** [http://g2i4project.duckdns.org](http://g2i4project.duckdns.org)
+
+📎 전체 소스코드는 GitHub에서 확인할 수 있습니다:  
+👉 [https://github.com/tigervel/2team_project](https://github.com/tigervel/2team_project)
 
 ---
 
