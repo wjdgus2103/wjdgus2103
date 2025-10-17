@@ -62,21 +62,6 @@
 
 ---
 
-### 🧩 [ModuChe (물류관리 웹)](https://github.com/wjdgus2103/moduche)
-> React + MUI 기반 **물류 기업 관리 시스템**  
-> 기업 회원가입, 로그인, 카고 등록 및 관리 기능을 제공합니다.
-
-**Key Contributions**  
-- MUI Theme 커스터마이징 (CSS Variable Token 기반)  
-- React Router 및 페이지 보호 라우팅 구조 설계  
-- Axios 기반 비동기 API 통신 / 에러 핸들링 로직 구현  
-- 재사용 가능한 Common 컴포넌트 세트 (Paper, Button, Typography 등)  
-
-**Tech:** React, MUI, Spring Boot, JWT, Axios  
-**Highlights:** 반응형 UI / 커스텀 테마 / 로그인 보안 구조  
-
----
-
 ### 📱 [Flutter Social Login App](https://github.com/wjdgus2103/flutter_login_app)
 > Flutter 기반 SNS 로그인 앱 (Kakao, Naver, Google)
 
