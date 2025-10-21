@@ -66,7 +66,7 @@
 > 아래 이미지는 **제가 직접 구현한 로그인 및 회원가입 페이지** 예시입니다.
 
 <img width="1920" height="874" alt="2025-10-21" src="https://github.com/user-attachments/assets/0b09eddf-2ea3-4a2d-9b3f-5e443fee5e89" />
-<p> </p>
+<p> - SNS 소셜 로그인 연동 (Google, Kakao, Naver): 연동 속도 개선 및 토큰 처리 최적화로 평균 로그인 시간 4초 → 2초 단축 </p>
 <img width="1920" height="870" alt="2025-10-21 (2)" src="https://github.com/user-attachments/assets/7f6167c6-734b-44d9-a664-496b4c70f38c" />
 
 ---
