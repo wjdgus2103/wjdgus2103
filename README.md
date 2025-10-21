@@ -67,10 +67,12 @@
 
 <img width="1920" height="874" alt="2025-10-21" src="https://github.com/user-attachments/assets/0b09eddf-2ea3-4a2d-9b3f-5e443fee5e89" />
 
-<img width="1920" height="870" alt="2025-10-21 (2)" src="https://github.com/user-attachments/assets/7f6167c6-734b-44d9-a664-496b4c70f38c" />
-
 <p> - 로그인/회원가입 기능 전담 (JWT 인증/인가, Refresh Token 갱신): 인증 과정과 토큰 갱신을 최적화하여 로그인 오류율 0.5% 미만으로 유지, 안정적 서비스 제공 </p>
 <p> - SNS 소셜 로그인 연동 (Google, Kakao, Naver): 연동 속도 개선 및 토큰 처리 최적화로 평균 로그인 시간 4초 → 2초 단축 </p>
+
+<img width="1920" height="870" alt="2025-10-21 (2)" src="https://github.com/user-attachments/assets/7f6167c6-734b-44d9-a664-496b4c70f38c" />
+
+
 <p> - React 회원가입/로그인 UI 구현 (ID 중복 검사, 비밀번호 검증, 이메일 인증, 주소 검색): 사용자 입력 검증 강화 및 편의성 개선으로 회원가입 실패율 15% → 5% 감소 </p>
 ---
 
