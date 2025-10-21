@@ -59,11 +59,17 @@
 **Tech:** React, MUI, Redux Toolkit, Spring Boot, JWT, MySQL, Java  
 **Highlights:** 사용자 인증 / 관리자 기능 / 반응형 대시보드 / Kakao API 연동  
 
+---
+
+### 📸 구현 화면
+
+> 아래 이미지는 **제가 직접 구현한 로그인 및 대시보드 페이지** 예시입니다.
+
 <img width="1920" height="874" alt="2025-10-21" src="https://github.com/user-attachments/assets/0b09eddf-2ea3-4a2d-9b3f-5e443fee5e89" />
 
 <img width="1920" height="870" alt="2025-10-21 (2)" src="https://github.com/user-attachments/assets/7f6167c6-734b-44d9-a664-496b4c70f38c" />
 
-
+---
 
 📎 전체 소스코드는 GitHub에서 확인할 수 있습니다:  
 👉 [https://github.com/tigervel/2team_project](https://github.com/tigervel/2team_project)
