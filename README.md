@@ -74,7 +74,7 @@
 
 ## 📫 Contact
 📧 **Email:** wjdgus161120@gmail.com  
-🌍 **Portfolio Site:** [https://wjdgus2103.github.io](https://wjdgus2103.github.io)  
+🌍 **Portfolio Site:** https://github.com/wjdgus2103/wjdgus2103
 💬 Always open to collaboration or code review discussions!
 
 ---
