@@ -1,7 +1,8 @@
 <!-- 헤더 배너 -->
 <div align="center">
   <h1>👋 안녕하세요, <strong>문정현</strong>입니다</h1>
-  <p>💻 프론트엔드와 백엔드를 아우르는 풀스택 웹 개발자 | 🌱 React, Spring Boot, MUI 중심으로 성장하고 있습니다.</p>
+  <p>💻 프론트엔드와 백엔드를 아우르는 풀스택 웹 개발자
+    🌱 React, Spring Boot, MUI 중심으로 성장하고 있습니다.</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:113F67,100:58A0C8&height=180&section=header&text=wjdgus2103&fontColor=ffffff&fontSize=50&fontAlignY=35" />
 </div>
 
