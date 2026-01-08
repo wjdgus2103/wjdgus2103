@@ -94,7 +94,6 @@
 ## 📫 Contact
 📧 **Email:** wjdgus161120@gmail.com  
 🌍 **Portfolio Site:** [github.com/wjdgus2103](https://github.com/wjdgus2103)  
-💬 Always open to collaboration or code review discussions!
 
 ---
 
